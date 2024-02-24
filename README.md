@@ -2,6 +2,8 @@
 The project is based on the data provided by the Financial Modeling Prep organization.
 Url: https://site.financialmodelingprep.com/
 
+This is written in TypeScript + React and C# + .NET Core.
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
