@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Financial Modeling App
+The project is based on the data provided by the Financial Modeling Prep organization.
+Url: https://site.financialmodelingprep.com/
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -28,7 +32,3 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### Financial Modeling App
-The project is based on the data provided by the Financial Modeling Prep organization.
-Url: https://site.financialmodelingprep.com/
