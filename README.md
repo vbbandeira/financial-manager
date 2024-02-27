@@ -2,7 +2,8 @@
 The project is based on the data provided by the Financial Modeling Prep organization.
 Url: https://site.financialmodelingprep.com/
 
-This is written in TypeScript + React to the frontend and API integrations with C# + .NET Core.
+This is written in TypeScript + React to the front end and API integrations with C# + .NET Core.
+The CSS style was created using Tailwind CSS.
 
 ## Getting Started with Create React App
 
