@@ -1,4 +1,4 @@
-import React, { ChangeEvent, useState, MouseEvent, SyntheticEvent } from 'react'
+import React, { ChangeEvent, useState, MouseEvent, SyntheticEvent } from 'react';
 
 interface Props {
     onSearchSubmit: (e: SyntheticEvent) => void;
@@ -16,4 +16,4 @@ const Search: React.FC<Props> = ({ onSearchSubmit, search, handleSearchChange }:
     );
 }
 
-export default Search
+export default Search;

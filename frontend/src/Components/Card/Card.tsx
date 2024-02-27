@@ -1,4 +1,4 @@
-import React, { SyntheticEvent } from 'react'
+import React, { SyntheticEvent } from 'react';
 import "./Card.css";
 import { CompanySearch } from '../../company';
 import AddPortfolio from '../Portfolio/AddPortfolio/AddPortfolio';
@@ -21,6 +21,6 @@ const Card: React.FC<Props> = ({ id, searchResult, onPortfolioCreate }: Props): 
             <AddPortfolio onPortfolioCreate={onPortfolioCreate} symbol={searchResult.symbol} />
         </div>
     );
-}
+};
 
 export default Card;

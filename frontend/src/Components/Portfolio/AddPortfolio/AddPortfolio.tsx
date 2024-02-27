@@ -1,4 +1,4 @@
-import React, { SyntheticEvent } from 'react'
+import React, { SyntheticEvent } from 'react';
 
 interface Props {
     onPortfolioCreate: (e: SyntheticEvent) => void;
@@ -11,7 +11,7 @@ const AddPortfolio = ({ onPortfolioCreate, symbol }: Props) => {
             <input readOnly={true} hidden={true} value={symbol}></input>
             <button type="submit">Add</button>
         </form>
-    )
-}
+    );
+};
 
-export default AddPortfolio
+export default AddPortfolio;
